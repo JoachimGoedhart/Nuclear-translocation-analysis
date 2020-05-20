@@ -101,7 +101,7 @@ The CellProfiler pipeline generates multiple files, among which "Nuclei.csv" and
 * After clicking the ‘Plot’ tab, you  will see the following figure:
 
 
-[![alt text](https://github.com/JoachimGoedhart/Nuclear-translocation-analysis/blob/master/PlotTwist_Output/PlotTwist_1.png)]
+[alt text](https://github.com/JoachimGoedhart/Nuclear-translocation-analysis/blob/master/PlotTwist_Output/PlotTwist_1.png)
 
 * Finally, it is possible to adjust the plot to help clear visualization of the data. It is also suggested to normalize the data to the baseline (first 5 images in this case) in the tab Data upload. The following link includes pre-selected settings to visualize the data from the ERK traces, and the figure shows the result. First you need to copy and paste the link in the web explorer, and then repeat the steps of uploading the data and selecting the x/y-axes and the sample identifier.
 
