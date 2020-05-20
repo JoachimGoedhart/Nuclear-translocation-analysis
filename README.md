@@ -1,5 +1,5 @@
-# Nuclear translocation analysis:
-## Quantifying the cytoplasmic to nuclear ratio from timelapse experiments
+# Single cell analysis of nuclear translocation 
+
 ##### Authors: Sergei Chavez-Abiega and Joachim Goedhart (University of Amsterdam)
 
 Step-by-step instruction to quantify the cytoplasmic to nuclear fluorescence ratio (C/N ratio) from confocal timelapse imaging experiments. The main purpose is to analyze data from translocation reporters that shuttle between the cytoplasm and nucleus. 
