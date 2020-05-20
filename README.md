@@ -24,7 +24,7 @@ The end-result is a plot that shows the nuclear to cytoplasmic ratio for individ
 
 ## Data description
 
-Here, we have data from three channels, a red, green and cyan channel. The red channel displays nuclear mScarlet-I, which is used for nuclear segmentation. The green and cyan channels display images of two different biosensors, which is the data that needs to be analyzed. The raw datafiles are in /Images/raw or [click here](https://github.com/JoachimGoedhart/Nuclear-translocation-analysis/tree/master/Images/raw):
+Here, we have data from three channels, a red, green and cyan channel. The red channel displays nuclear mScarlet-I, which is used for nuclear segmentation. The green and cyan channels display images of two different biosensors, which is the data that needs to be analyzed. A dynamic close-up of the data as an animated GIF is [available here](https://github.com/JoachimGoedhart/Nuclear-translocation-analysis/blob/master/Images/animation/Combined-KTR_Cyan_Green_Red.gif). The raw datafiles are in /Images/raw or [click here](https://github.com/JoachimGoedhart/Nuclear-translocation-analysis/tree/master/Images/raw):
 
 * KTR_Red-channel.TIF
 * KTR_Green-channel.TIF
